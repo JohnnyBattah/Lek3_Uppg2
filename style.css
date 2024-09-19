@@ -1,0 +1,23 @@
+body{
+    background-image: url(./img/ek.jpg);
+}
+
+h1{
+    color: #fc6f03;
+    background-color: #35bdba;
+    text-align: center;
+}
+
+h2 {
+    color: #14e07a;
+    background-color: #6e1d85;
+}
+
+a{
+    color: white;
+    background-color: black;
+}
+
+p{
+    background-color: white;
+}
